@@ -20,3 +20,17 @@ console.log(euroDun)
 
 let konutkredileri=[ "konut kredisi","emlak konut","kamu konut kredileri",]
 
+consele.log("</ul>")
+for(let i=0;i<konutkredileri.length;i++){
+    consele.log("<li>"+konutkredileri[i]+"</li>")
+}
+consele.log("</ul>")
+
+{/* <ul>
+<li>konut kredisi</li>
+<li> emlak konut kredisi</li>
+<li> kamu konut kredisi</li>
+
+</ul>*/}
+
+
